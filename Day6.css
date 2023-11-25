@@ -1,0 +1,22 @@
+.demo1{
+   background-color: crimson;
+    display: inline;
+}
+.demo2{
+    background-color: greenyellow;
+    display: block;
+}
+.demo3{
+    background-color:palevioletred;
+    display: inline-block;
+    padding: 5px;
+    margin-bottom: 2px;
+}
+.demo4{
+    background-color:yellow;
+    display: none;
+}
+.demo5{
+    background-color:aqua;
+    display:hidden;
+}

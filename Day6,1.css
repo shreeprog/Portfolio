@@ -1,0 +1,23 @@
+.container{
+    height: 400px;
+    width: 300px;
+    border: 3px groove black;
+    display: flex;
+    flex-direction: row;
+   /* flex-direction: row;
+   flex-direction: column-reverse;
+   flex-direction: row-reverse;
+   justify-content:center;*/
+   justify-content: flex-end;
+ /* justify-content:flex-start;*/
+align-items: flex-start;
+/*align-items: flex-end;
+align-items: flex-start;
+flex-wrap: wrap;*/
+}
+.item{
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+    margin: 5px;
+}
